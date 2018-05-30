@@ -5,7 +5,7 @@ import turtle
 bob = turtle.Turtle()
 
 # Step 3: Move in the direction Bob's facing for 50 pixels
-bob.forward(50)
+bob.forward(500)
 
 # Step 4: We're done!
 turtle.done()
